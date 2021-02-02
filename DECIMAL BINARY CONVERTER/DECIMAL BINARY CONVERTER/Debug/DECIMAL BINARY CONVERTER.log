@@ -1,0 +1,6 @@
+﻿  DECIMAL BINARY CONVERTER.cpp
+G:\CODES\DECIMAL BINARY CONVERTER\DECIMAL BINARY CONVERTER\DECIMAL BINARY CONVERTER.cpp(26,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+G:\CODES\DECIMAL BINARY CONVERTER\DECIMAL BINARY CONVERTER\DECIMAL BINARY CONVERTER.cpp(37,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+G:\CODES\DECIMAL BINARY CONVERTER\DECIMAL BINARY CONVERTER\DECIMAL BINARY CONVERTER.cpp(67,23): warning C4018: '<': signed/unsigned mismatch
+G:\CODES\DECIMAL BINARY CONVERTER\DECIMAL BINARY CONVERTER\DECIMAL BINARY CONVERTER.cpp(72,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  DECIMAL BINARY CONVERTER.vcxproj -> G:\CODES\DECIMAL BINARY CONVERTER\Debug\DECIMAL BINARY CONVERTER.exe
